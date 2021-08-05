@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account id="e9d0c8e0-fde6-4a6b-bc7a-2423fa04ac5c" name="archroid">
+      <server host="github.com" />
+    </account>
+  </component>
+</application>
