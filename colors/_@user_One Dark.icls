@@ -3,7 +3,7 @@
     <property name="created">2021-08-05T11:06:14</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2020.3.1.22</property>
-    <property name="modified">2021-08-05T11:27:37</property>
+    <property name="modified">2021-08-05T14:42:23</property>
     <property name="originalScheme">One Dark</property>
   </metaInfo>
   <colors>
@@ -2085,7 +2085,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="abb2bf" />
-        <option name="BACKGROUND" value="181a1f" />
+        <option name="BACKGROUND" value="21252b" />
       </value>
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">

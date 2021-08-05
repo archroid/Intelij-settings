@@ -4,7 +4,7 @@
     <property name="created">2021-08-05T11:08:57</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2020.3.1.22</property>
-    <property name="modified">2021-08-05T11:36:05</property>
+    <property name="modified">2021-08-05T14:42:23</property>
     <property name="originalScheme">Atom One Dark (Material)</property>
   </metaInfo>
   <console-font>
@@ -754,7 +754,7 @@
     <option name="FOLDED_TEXT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="6b727d" />
-        <option name="BACKGROUND" value="282a36" />
+        <option name="BACKGROUND" value="181a1f" />
       </value>
     </option>
     <option name="FOLLOWED_HYPERLINK_ATTRIBUTES">
@@ -1079,7 +1079,7 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="33e5d" />
+        <option name="BACKGROUND" value="21252b" />
         <option name="ERROR_STRIPE_COLOR" value="4d6168" />
       </value>
     </option>
